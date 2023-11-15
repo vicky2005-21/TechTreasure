@@ -1,7 +1,7 @@
-## BY SUBJECT(BOOKS)
+## 📚 Books by Subject: Language-Agnostic Programming Guides 🧠
 
-This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.    
-Books that cover a specific programming language can be found in the list.
+This list, organized by subject, features books that cover programming-related topics in a language-agnostic manner. For books focusing on specific programming languages, please refer to our dedicated list.
+
 
 
 ### Index
