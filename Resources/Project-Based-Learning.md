@@ -1,6 +1,7 @@
-# Project Based Learning(WEB-LINKS)
+## 🌐 Project Based Learning: Web Links Collection 🖥️
 
-A list of programming tutorials in web-links which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+A curated list of programming tutorials in web-links format, guiding aspiring software developers on how to build applications from scratch. These tutorials are categorized based on primary programming languages but may involve multiple technologies and languages.
+
 
 
 ## Table of Contents:
