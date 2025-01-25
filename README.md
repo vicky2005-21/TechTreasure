@@ -35,3 +35,5 @@ If you find these resources helpful, please consider showing your support:
 - You can also suggest new resources or languages by opening an issue 🆕.
 
 Thank you for your support and happy learning! 🎓
+
+Vignesh Chowdary AV
